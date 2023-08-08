@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1666830890 source:c:\users\macarena\desktop\juego diez mil\juego diez mil\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+
+1571584339 c:\users\macarena\desktop\juego diez mil\juego diez mil\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
