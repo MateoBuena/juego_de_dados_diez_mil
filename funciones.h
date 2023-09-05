@@ -375,6 +375,7 @@ void tiradas(){
             std::cout<<"MUCHAS GRACIAS POR JUGAR! :)"<<std::endl;
             loop=false;
         }else{
+            system("cls");
             rlutil::locate(20,10);
             std::cout<<"SI QUIERE PASAR A LA SIGUIENTE RONDA PULSE CUALQUIER TECLA"<<std::endl;
             rlutil::locate(20,11);
